@@ -1,4 +1,4 @@
-# gb Tile Designer
+# GameBoy Tile Designer
 
 With this program you can design sprites for your GameBoy game.
 
